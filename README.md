@@ -2,5 +2,5 @@
 
 ## Data Diri
 
-Nama : Rendika Rahmaturrizki
+Nama : Rendika Rahmaturrizki 
 NPM : 2108107010066
